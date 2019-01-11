@@ -8,7 +8,7 @@ Neste projeto usei o Dapper como ORM e fiz uso de procedures.
 Projeto preparado para trabalhar com validação de Token fazendo uso do Jwt (Json Web Token). Em breve implementarei uma validação com Jwt com Claims e Policyes.
 
 # Swagger
-O projeto faz uso do Swagger para testes da Api.
+O projeto faz uso do Swagger para testes e documentação da Api.
 
 # CQRS
 Neste projeto faço uso dos Commands em CQRS (assíncrona para alteração de estado de entidades, síncrona para consultas).
